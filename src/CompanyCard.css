@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.card-container {
+    border: 2px solid black; /* Add your preferred border color and styles here */
+    border-radius: 8px; /* Optional: Add border radius for rounded corners */
+    overflow: hidden; 
+    padding: 1em;
+    margin: 1em;
+}
+
+.card-title {
+    font-weight: bold;
+}
