@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Route, Routes, BrowserRouter, Navigate } from 'react-router-dom';
-import Home from "./Home";
-import CompanyList from "./CompanyList";
+import Home from "./Home.js";
+import CompanyList from "./CompanyList.js";
 import Company from "./Company.js";
 import JobList from "./JobList.js";
 import LoginForm from "./LoginForm.js";
